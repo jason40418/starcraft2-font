@@ -3,6 +3,7 @@
 [![Last Update](https://img.shields.io/badge/Last%20Update-February%202018-red.svg)]()
 [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)]()
 [![Release](https://img.shields.io/badge/Release-ver.1.0.0-green.svg)]()
+[![Tool](https://img.shields.io/badge/Build-fontastic-blue.svg)]()
 [![Tool](https://img.shields.io/badge/Design%20Software-Adobe%20Illustrator-blue.svg)]()
 
 > This is not designed or uploaded by official （Blizzard Entertainment, Inc.）.
@@ -79,4 +80,4 @@ We use [SemVer](http://semver.org/) for versioning.
 
 ## Authors
 
-* **Jason Lin** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Jason Lin** - *Full Work* - [Github](https://github.com/jason40418)
