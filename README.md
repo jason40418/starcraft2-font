@@ -1,6 +1,5 @@
 # StarCraft2-font
 
-[comment]: <> (The following are some information about this project)
 [![Last Update](https://img.shields.io/badge/Last%20Update-February%202018-red.svg)]()
 [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)]()
 [![Release](https://img.shields.io/badge/Release-ver.1.0.0-green.svg)]()
